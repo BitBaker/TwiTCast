@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="8175.2" systemVersion="14F27" minimumToolsVersion="Automatic">
+    <entity name="TwiTShow" representedClassName=".TwiTShow" syncable="YES">
+        <attribute name="idNumber" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="showCoverArtURL" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="showThumbnailArtURL" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="teaser" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="title" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="TwiTShow" positionX="-63" positionY="-18" width="128" height="120"/>
+    </elements>
+</model>
